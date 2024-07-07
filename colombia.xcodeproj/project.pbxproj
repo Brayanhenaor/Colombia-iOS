@@ -14,6 +14,18 @@
 		E1599D852C3A142B00736B70 /* colombiaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599D842C3A142B00736B70 /* colombiaTests.swift */; };
 		E1599D8F2C3A142B00736B70 /* colombiaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599D8E2C3A142B00736B70 /* colombiaUITests.swift */; };
 		E1599D912C3A142B00736B70 /* colombiaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599D902C3A142B00736B70 /* colombiaUITestsLaunchTests.swift */; };
+		E1599DA52C3A3AF500736B70 /* CountryRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DA42C3A3AF500736B70 /* CountryRepository.swift */; };
+		E1599DA92C3A3B2400736B70 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DA82C3A3B2400736B70 /* HomeView.swift */; };
+		E1599DAD2C3A3B3F00736B70 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DAC2C3A3B3F00736B70 /* HomeViewModel.swift */; };
+		E1599DB22C3A3BBB00736B70 /* CountryResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DB12C3A3BBB00736B70 /* CountryResponse.swift */; };
+		E1599DB52C3A3CCD00736B70 /* CountryRepositoryImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DB42C3A3CCD00736B70 /* CountryRepositoryImpl.swift */; };
+		E1599DBA2C3A3E6400736B70 /* CountryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DB92C3A3E6400736B70 /* CountryService.swift */; };
+		E1599DBD2C3A429900736B70 /* HomeViewRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DBC2C3A429900736B70 /* HomeViewRouter.swift */; };
+		E1599DC12C3A460100736B70 /* TouristicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DC02C3A460100736B70 /* TouristicView.swift */; };
+		E1599DC82C3A494E00736B70 /* SwiftUIRouter in Frameworks */ = {isa = PBXBuildFile; productRef = E1599DC72C3A494E00736B70 /* SwiftUIRouter */; };
+		E1599DCA2C3A49AB00736B70 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1599DC92C3A49AB00736B70 /* RootView.swift */; };
+		E1AB273A2C3B4A41006B1F28 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AB27392C3B4A41006B1F28 /* Color.swift */; };
+		E1F726142C3B579600F244A2 /* Navbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F726132C3B579600F244A2 /* Navbar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +56,17 @@
 		E1599D8A2C3A142B00736B70 /* colombiaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = colombiaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1599D8E2C3A142B00736B70 /* colombiaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colombiaUITests.swift; sourceTree = "<group>"; };
 		E1599D902C3A142B00736B70 /* colombiaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colombiaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E1599DA42C3A3AF500736B70 /* CountryRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryRepository.swift; sourceTree = "<group>"; };
+		E1599DA82C3A3B2400736B70 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		E1599DAC2C3A3B3F00736B70 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		E1599DB12C3A3BBB00736B70 /* CountryResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryResponse.swift; sourceTree = "<group>"; };
+		E1599DB42C3A3CCD00736B70 /* CountryRepositoryImpl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryRepositoryImpl.swift; sourceTree = "<group>"; };
+		E1599DB92C3A3E6400736B70 /* CountryService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryService.swift; sourceTree = "<group>"; };
+		E1599DBC2C3A429900736B70 /* HomeViewRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewRouter.swift; sourceTree = "<group>"; };
+		E1599DC02C3A460100736B70 /* TouristicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouristicView.swift; sourceTree = "<group>"; };
+		E1599DC92C3A49AB00736B70 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		E1AB27392C3B4A41006B1F28 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		E1F726132C3B579600F244A2 /* Navbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navbar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1599DC82C3A494E00736B70 /* SwiftUIRouter in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +118,10 @@
 		E1599D722C3A142900736B70 /* colombia */ = {
 			isa = PBXGroup;
 			children = (
+				E1599DAE2C3A3B6000736B70 /* Core */,
+				E1599DA12C3A3A8D00736B70 /* Data */,
+				E1599DA02C3A3A8600736B70 /* Domain */,
+				E1599D9D2C3A390900736B70 /* Presentation */,
 				E1599D732C3A142900736B70 /* colombiaApp.swift */,
 				E1599D752C3A142900736B70 /* ContentView.swift */,
 				E1599D772C3A142B00736B70 /* Assets.xcassets */,
@@ -127,6 +155,165 @@
 			path = colombiaUITests;
 			sourceTree = "<group>";
 		};
+		E1599D9D2C3A390900736B70 /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DA22C3A3AA900736B70 /* Views */,
+				E1599D9E2C3A392600736B70 /* Common */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		E1599D9E2C3A392600736B70 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				E1F726122C3B578B00F244A2 /* Navbar */,
+				E1599D9F2C3A392C00736B70 /* Navigation */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		E1599D9F2C3A392C00736B70 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DC92C3A49AB00736B70 /* RootView.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		E1599DA02C3A3A8600736B70 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DB02C3A3BB100736B70 /* Model */,
+				E1599DA32C3A3ADD00736B70 /* Repository */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		E1599DA12C3A3A8D00736B70 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DB82C3A3E5A00736B70 /* Service */,
+				E1599DB32C3A3CC000736B70 /* Repository */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		E1599DA22C3A3AA900736B70 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DBE2C3A45EC00736B70 /* Touristic */,
+				E1599DA72C3A3B1100736B70 /* Home */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E1599DA32C3A3ADD00736B70 /* Repository */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DA42C3A3AF500736B70 /* CountryRepository.swift */,
+			);
+			path = Repository;
+			sourceTree = "<group>";
+		};
+		E1599DA72C3A3B1100736B70 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DBB2C3A428B00736B70 /* Router */,
+				E1599DAB2C3A3B3600736B70 /* ViewModel */,
+				E1599DAA2C3A3B3000736B70 /* View */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		E1599DAA2C3A3B3000736B70 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DA82C3A3B2400736B70 /* HomeView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E1599DAB2C3A3B3600736B70 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DAC2C3A3B3F00736B70 /* HomeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		E1599DAE2C3A3B6000736B70 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DAF2C3A3B6300736B70 /* Utils */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		E1599DAF2C3A3B6300736B70 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				E1AB27392C3B4A41006B1F28 /* Color.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		E1599DB02C3A3BB100736B70 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DB12C3A3BBB00736B70 /* CountryResponse.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E1599DB32C3A3CC000736B70 /* Repository */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DB42C3A3CCD00736B70 /* CountryRepositoryImpl.swift */,
+			);
+			path = Repository;
+			sourceTree = "<group>";
+		};
+		E1599DB82C3A3E5A00736B70 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DB92C3A3E6400736B70 /* CountryService.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		E1599DBB2C3A428B00736B70 /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DBC2C3A429900736B70 /* HomeViewRouter.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		E1599DBE2C3A45EC00736B70 /* Touristic */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DBF2C3A45F500736B70 /* View */,
+			);
+			path = Touristic;
+			sourceTree = "<group>";
+		};
+		E1599DBF2C3A45F500736B70 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E1599DC02C3A460100736B70 /* TouristicView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E1F726122C3B578B00F244A2 /* Navbar */ = {
+			isa = PBXGroup;
+			children = (
+				E1F726132C3B579600F244A2 /* Navbar.swift */,
+			);
+			path = Navbar;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +330,9 @@
 			dependencies = (
 			);
 			name = colombia;
+			packageProductDependencies = (
+				E1599DC72C3A494E00736B70 /* SwiftUIRouter */,
+			);
 			productName = colombia;
 			productReference = E1599D702C3A142900736B70 /* colombia.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +405,9 @@
 				Base,
 			);
 			mainGroup = E1599D672C3A142900736B70;
+			packageReferences = (
+				E1599DC62C3A494E00736B70 /* XCRemoteSwiftPackageReference "SwiftUIRouter" */,
+			);
 			productRefGroup = E1599D712C3A142900736B70 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,7 +450,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1599DBD2C3A429900736B70 /* HomeViewRouter.swift in Sources */,
+				E1599DBA2C3A3E6400736B70 /* CountryService.swift in Sources */,
 				E1599D762C3A142900736B70 /* ContentView.swift in Sources */,
+				E1599DCA2C3A49AB00736B70 /* RootView.swift in Sources */,
+				E1599DA92C3A3B2400736B70 /* HomeView.swift in Sources */,
+				E1AB273A2C3B4A41006B1F28 /* Color.swift in Sources */,
+				E1F726142C3B579600F244A2 /* Navbar.swift in Sources */,
+				E1599DC12C3A460100736B70 /* TouristicView.swift in Sources */,
+				E1599DB52C3A3CCD00736B70 /* CountryRepositoryImpl.swift in Sources */,
+				E1599DA52C3A3AF500736B70 /* CountryRepository.swift in Sources */,
+				E1599DB22C3A3BBB00736B70 /* CountryResponse.swift in Sources */,
+				E1599DAD2C3A3B3F00736B70 /* HomeViewModel.swift in Sources */,
 				E1599D742C3A142900736B70 /* colombiaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -582,6 +786,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E1599DC62C3A494E00736B70 /* XCRemoteSwiftPackageReference "SwiftUIRouter" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/frzi/SwiftUIRouter.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.3.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E1599DC72C3A494E00736B70 /* SwiftUIRouter */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E1599DC62C3A494E00736B70 /* XCRemoteSwiftPackageReference "SwiftUIRouter" */;
+			productName = SwiftUIRouter;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E1599D682C3A142900736B70 /* Project object */;
 }
